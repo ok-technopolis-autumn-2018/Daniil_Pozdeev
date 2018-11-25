@@ -15,6 +15,7 @@
     border: none;
     padding: 0;
     margin: 0 0 0 12px;
+    cursor: pointer;
 
     font-family: 'Helvetica Neue', Arial, sans-serif;
     font-size: 14px;
@@ -42,6 +43,7 @@
 .todos-toolbar_filters {
     overflow: hidden;
     position: relative;
+    text-align: center;
 }
 
 .todos-toolbar_filters button {
@@ -51,6 +53,7 @@
     padding: 3px 8px;
     margin: 0 12px 0 0;
     box-sizing: border-box;
+    cursor: pointer;
 
     font-family: 'Helvetica Neue', Arial, sans-serif;
     font-size: 14px;

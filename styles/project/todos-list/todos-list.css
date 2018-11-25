@@ -49,11 +49,11 @@
 
         .todos-list_item:hover {
             background: #fafafa;
+            cursor: pointer;
         }
 
             .todos-list_item:hover .todos-list_item_remove {
                 visibility: visible;
-
                 }
 
 .custom-checkbox_target:checked ~ .todos-list_item_text-w {
